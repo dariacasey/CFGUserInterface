@@ -25,4 +25,8 @@ their associated information. The initial screen serves as a login interface. On
 users can access a menu offering various options, including generating reports and updating customer 
 credit limits.
   
+## Additional 
 
+The ER diagram below shows the logical structure of the database this application interacts with: 
+
+<img width="744" alt="Screenshot 2023-07-11 at 1 05 07 PM" src="https://github.com/dariacasey/CFGUserInterface/assets/128617643/017fc705-3a37-4827-a6c2-b32f329018a6">
